@@ -1,0 +1,35 @@
+.detalle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    max-width: 1000px;
+    margin: 50px auto;
+    padding: 30px;
+    text-align: center;
+    background-color: rgb(95, 32, 32);
+    border-radius: 20px;
+    box-shadow: 0px 4px 20px rgba(0,0,0,0.1);
+}
+
+.detalle img{
+    width: 350px;
+    object-fit: cover;
+}
+
+.detalle h1{
+    font-size: 2.5rem;
+    color: white;
+}
+
+.detalle h3{
+    font-size: 2rem;
+    color: white;
+}
+
+.detalle p{
+    font-size: 1.1rem;
+    color: white;
+    line-height: 1.6;
+}
+

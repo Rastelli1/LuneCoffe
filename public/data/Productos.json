@@ -1,0 +1,433 @@
+
+[
+{
+    "id": 0,
+    "nombre":"Latte" ,
+    "precio": 3000,
+    "imagen":"/img/bebidas/calientes/Latte.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id": 1,
+    "nombre":"Americano" ,
+    "precio": 3000,
+    "imagen":"/img/bebidas/calientes/Americano.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id": 2 ,
+    "nombre":"Cafe" ,
+    "precio": 2000,
+    "imagen":"/img/bebidas/calientes/Cafe.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id": 3,
+    "nombre":"Capucciono" ,
+    "precio": 4000,
+    "imagen":"/img/bebidas/calientes/Capuccino.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id": 4,
+    "nombre":"Expresso" ,
+    "precio": 2500,
+    "imagen":"/img/bebidas/calientes/Expresso.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id": 5,
+    "nombre":"Flat White" ,
+    "precio": 4000,
+    "imagen":"/img/bebidas/calientes/Flat White.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id": 6,
+    "nombre":"Macchiato" ,
+    "precio": 5000,
+    "imagen":"/img/bebidas/calientes/Macchiato.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id": 7,
+    "nombre":"Sumarino" ,
+    "precio": 3500,
+    "imagen":"/img/bebidas/calientes/Sumarino.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id": 8,
+    "nombre":"Te de Manzanilla" ,
+    "precio": 1500,
+    "imagen":"/img/bebidas/calientes/Te manzanilla.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id": 9,
+    "nombre":"Te Negro" ,
+    "precio": 1500,
+    "imagen":"/img/bebidas/calientes/Te negro.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id":10 ,
+    "nombre":"Te Verde" ,
+    "precio": 1500,
+    "imagen":"/img/bebidas/calientes/Te verde.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+
+
+
+{
+    "id": 11,
+    "nombre":"Cafe Helado" ,
+    "precio": 2000,
+    "imagen":"/img/bebidas/frias/Cafe Helado.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id":12 ,
+    "nombre":"Exprimido de naranja" ,
+    "precio": 1500,
+    "imagen":"/img/bebidas/frias/Exprimido de Naranja.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id": 13,
+    "nombre":"Frappe de caramelo" ,
+    "precio": 4500,
+    "imagen":"/img/bebidas/frias/Frape de caramelo.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id":14 ,
+    "nombre":"Frappe de Frutilla" ,
+    "precio": 4500 ,
+    "imagen":"/img/bebidas/frias/Frappe de frutilla.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id":15 ,
+    "nombre":"Frappe" ,
+    "precio": 4500,
+    "imagen":"/img/bebidas/frias/Frappe.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id": 16,
+    "nombre":"Licuado de Banana" ,
+    "precio": 3000,
+    "imagen":"/img/bebidas/frias/Licuado de Banana.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id":17 ,
+    "nombre":"Licuado de durazno" ,
+    "precio": 3000,
+    "imagen":"/img/bebidas/frias/Licuado de Durazno.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id":18 ,
+    "nombre":"Licuado de frutilla" ,
+    "precio": 3000,
+    "imagen":"/img/bebidas/frias/Licuado de frutilla.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id": 19,
+    "nombre":"Smoothie de banana" ,
+    "precio": 4000,
+    "imagen":"/img/bebidas/frias/Smothie de banana.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id": 20,
+    "nombre":"Smoothie de Frutos Rojos" ,
+    "precio": 4000,
+    "imagen":"/img/bebidas/frias/Smothie de frutos rojos.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+
+
+
+
+{
+    "id": 21 ,
+    "nombre":"Alfajores de Maicena 6/u" ,
+    "precio": 3000,
+    "imagen":"/img/comidas/dulce/Alfajores de maicena.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id": 22,
+    "nombre":"Brownie" ,
+    "precio": 2500,
+    "imagen":"/img/comidas/dulce/Brownies.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id":23 ,
+    "nombre":"Chessecake" ,
+    "precio":3000 ,
+    "imagen":"/img/comidas/dulce/Chessecake.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id": 24,
+    "nombre":"Chocotorta" ,
+    "precio": 3500,
+    "imagen":"/img/comidas/dulce/Chocotorta.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id":25 ,
+    "nombre":"Croissant" ,
+    "precio": 2000,
+    "imagen":"/img/comidas/dulce/Croissant.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id": 26,
+    "nombre":"Torre de Cupcakes 12/u" ,
+    "precio": 5000,
+    "imagen":"/img/comidas/dulce/Cupcakes.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id":27 ,
+    "nombre":"Lemon Pie" ,
+    "precio":3000 ,
+    "imagen":"/img/comidas/dulce/Lemon Pie.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id": 28,
+    "nombre":"Marquise de chocolate" ,
+    "precio": 3000 ,
+    "imagen":"/img/comidas/dulce/Marquise de chocolate.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id":29 ,
+    "nombre":"medialunas" ,
+    "precio":1500 ,
+    "imagen":"/img/comidas/dulce/Medialunas.png",
+    "Disponible":true,
+    "Recomendado":true,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id": 30,
+    "nombre":"Panqueques con miel" ,
+    "precio": 3500,
+    "imagen":"/img/comidas/dulce/Panqueques.png",
+    "Disponible":true,
+    "Recomendado":true,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id": 31,
+    "nombre":"Pastafrola de membrillo" ,
+    "precio": 2000,
+    "imagen":"/img/comidas/dulce/Pastafrola de membrillo.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id": 32,
+    "nombre":"Waffle de banana" ,
+    "precio": 4000,
+    "imagen":"/img/comidas/dulce/Waffle de banana.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id": 33,
+    "nombre":"Waffle de chocolate" ,
+    "precio": 4500,
+    "imagen":"/img/comidas/dulce/Waffle de chocolate.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id": 34,
+    "nombre":"Waffle Oreo" ,
+    "precio":4500 ,
+    "imagen":"/img/comidas/dulce/Waffle Oreo.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+
+
+
+{
+    "id":35 ,
+    "nombre":"Arabe Jamon y queso" ,
+    "precio": 4000,
+    "imagen":"/img/comidas/salado/Arabe de Jamon y queso.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id": 36,
+    "nombre":"Chipa 6/u" ,
+    "precio": 3000,
+    "imagen":"/img/comidas/salado/Chipa.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id": 37,
+    "nombre":"Croissant Jamon y queso" ,
+    "precio": 3500 ,
+    "imagen":"/img/comidas/salado/Croissant Jamon y queso.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id": 38,
+    "nombre":"Escones de queso 6/u" ,
+    "precio": 2500,
+    "imagen":"/img/comidas/salado/Escones de queso.png",
+    "Disponible":true,
+    "Recomendado":true,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id":39 ,
+    "nombre":"Fosforito de Jamon y queso" ,
+    "precio": 3000,
+    "imagen":"/img/comidas/salado/Fosforito de jamon y queso.png",
+    "Disponible":true,
+    "Recomendado":true,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id": 40,
+    "nombre":"Tostado de miga con Jamon y queso" ,
+    "precio": 3500,
+    "imagen":"/img/comidas/salado/Tostado de miga.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+},
+{
+    "id": 41 ,
+    "nombre":"Tostado Pan de campo" ,
+    "precio": 3500 ,
+    "imagen":"/img/comidas/salado/Tostado Pan de campo.png",
+    "Disponible":true,
+    "Recomendado":false,
+    "categoria": "Bebidas calientes",
+    "descripcion": "Café suave con leche vaporizada y espuma cremosa."
+}
+]

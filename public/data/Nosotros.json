@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "nombre": "Juan Diaz",
+        "imagen": "./img/personal_local/JuanDiaz.png",
+        "puesto": "Barista",
+        "descripcion": "Apasionado por el café de especialidad y experto en crear lattes perfectos."
+    },
+    {
+        "id": 1,
+        "nombre": "Marcela Perez",
+        "imagen": "./img/personal_local/MarcelaPerez.png",
+        "puesto": "Pastelera",
+        "descripcion": "La creadora de nuestros postres caseros y amante de los sabores dulces."
+    },
+    {
+        "id": 2,
+        "nombre": "Martin Lopez",
+        "imagen": "./img/personal_local/Martin.png",
+        "puesto": "Mesero",
+        "descripcion": "Siempre atento para que cada cliente disfrute una experiencia cálida y agradable."
+    },
+    {
+        "id": 3,
+        "nombre": "Agustin Gomez",
+        "imagen": "/img/personal_local/AgustinGomez.png",
+        "puesto": "Barista",
+        "descripcion": "Especialista en arte latte y fanático de probar nuevas combinaciones de café."
+    },
+    {
+        "id": 4,
+        "nombre": "Sofia Ramirez",
+        "imagen": "/img/personal_local/SofiaRamirez.png",
+        "puesto": "Encargada",
+        "descripcion": "Coordina el café con dedicación y se asegura de que todo funcione a la perfección."
+    }
+]

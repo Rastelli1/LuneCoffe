@@ -1,0 +1,30 @@
+.footer{
+    padding: 20px;
+    background-color:rgb(95, 32, 32);
+    color: white;
+    min-height: 30dvh;
+}
+.footerBox{
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;/*para que los elementos ocupen el espacio sobrante*/
+}
+.redes && .pagos{
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+.info{
+    text-align: center;
+    font-size: 20px;
+}
+.info img{
+    width: 50%;
+}
+
+.icono{
+    font-size: 40px;
+    color: white;
+    margin: 10px;
+}
+

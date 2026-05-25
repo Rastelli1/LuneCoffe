@@ -1,0 +1,13 @@
+.subtitulo{
+  padding:3rem;
+  text-align: center;
+  font-size: 5vh;
+  color: white;
+}
+.card{
+    padding: 3rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}

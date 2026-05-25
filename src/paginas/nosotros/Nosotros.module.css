@@ -1,0 +1,15 @@
+.general{
+    padding: 50px;
+    background-color: rgb(66, 35, 35);
+    align-items: center;
+    text-align: center;
+}
+.general h1{
+    color: white;
+    font-size: 5vh;
+}
+
+.texto{
+    color: white;
+    font-size: 3vh;
+} 
