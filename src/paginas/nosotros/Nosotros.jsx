@@ -5,7 +5,7 @@ function Nosotros (){
         
         <div className={styles.general}>
             <h1 >Nuestra historia</h1>
-            <img src="../public/img/personal_local/Local.png" alt="Local" />
+            <img src="/img/personal_local/Local.png" alt="Local" />
             <p className={styles.texto}>
                 En Lune Coffe creemos que cada taza cuenta una historia. Todo comenzó con un sueño sencillo: crear un lugar cálido donde las personas pudieran sentirse como en casa, compartir momentos y disfrutar del aroma único de un buen café recién hecho. Lo que empezó como una pequeña idea entre pasión, recetas caseras y muchas ganas de crecer, hoy se convirtió en un espacio pensado para reunir amigos, familias y amantes del café.
 

@@ -9,7 +9,7 @@ function NavBar(){
             <li><Link to="/Productos">Menu</Link></li>
             <li className={styles.navlogo}>
                 <Link to="/">
-                    <img src=".\public\img\Icono.ico" alt="/" />
+                    <img src="/img/icono.png" alt="/" />
                 </Link>
                 
             </li>

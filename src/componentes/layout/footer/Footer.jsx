@@ -15,7 +15,7 @@ function Footer() {
           </div>
 
           <div className={styles.info}>
-              <a href=""><img src=".\public\img\Icono.ico" alt="" /></a>
+              <a href=""><img src=".\img\icono.png" alt="" /></a>
               <p>Direccion: Calle falsa 123</p>
               <p>Telefono: 0023-2034-2341</p>
               <p>Email: LuneCoffe@gmail.com</p>
